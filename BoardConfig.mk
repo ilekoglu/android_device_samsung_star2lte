@@ -1,4 +1,4 @@
-# Platform
+# Platform := RF8K41WM7ZX
 BOARD_VENDOR := samsung
 TARGET_BOARD_PLATFORM := exynos5
 TARGET_SOC := exynos9810
